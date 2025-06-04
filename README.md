@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on open-source frontend projects, UI/UX web apps, and beginner-friendly repositories
 - 📫 How to reach me: 
   - 📧 Email: amardeep2907sharma@gmail.com
-  - 💼 LinkedIn: [[linkedin.com/in/amardeep2907](www.linkedin.com/in/amardeep-sharma-483a06299)
+  - 💼 LinkedIn: [[linkedin.com/in/amardeep2907]([www.linkedin.com/in/amardeep-sharma-483a06299)](https://www.linkedin.com/in/amardeep-sharma-483a06299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building UI clones of real apps like Amazon, and I’m currently building a Recipe Finder website with voice search and filters! 🍽️
 
